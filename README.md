@@ -12,6 +12,7 @@
 - 📫 How to reach me **daramolakehinde339@gmail.com**
 
 - ⚡ Fun fact **If you ever need a good story or some lively conversation, I'm your go-to person. Gisting is my specialty! 😄**
+- I am actively seeking new job 👨🏽‍💼💼 opportunities and exploring roles where I can contribute my skills and experience to a dynamic work environment. I am open to exciting possibilities and ready to take on new challenges in my career journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
