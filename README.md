@@ -3,7 +3,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennypapa&label=Profile%20views&color=0e75b6&style=flat" alt="kennypapa" /> </p>
 
-- 🔭 I’m currently working on **Bayem**
+- 🔭 I’m currently working on **Firmstaact(Financial Saas platform)**
 
 - 🌱 I’m currently learning **Next.js**
 
