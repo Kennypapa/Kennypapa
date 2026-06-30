@@ -1,34 +1,90 @@
-<h1 align="center">Hi 👋, I'm Daramola Kehinde</h1>
-<h3 align="center">Full-Stack Software Engineer building SaaS products, backend systems, and scalable web applications</h3>
-<!-- <img src="" alt="Coding" width="400" align="right"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kennypapa&label=Profile%20views&color=0e75b6&style=flat" alt="kennypapa" /> </p>
+<h1 align="center">Hi 👋, I'm Kehinde Daramola</h1>
 
-- 🔭 Currently building Firmstack, a financial operations SaaS platform.**
+<h3 align="center">
+Full-Stack Software Engineer building secure SaaS products, backend systems, and scalable web applications.
+</h3>
 
-- Ask me about
-• SaaS Architecture
-• NestJS
-• Authentication
-• RBAC
-• PostgreSQL
-• React
-• Next.js
-• AWS
-
-- 📫 How to reach me **daramolakehinde339@gmail.com**
-
-- ⚡ Fun fact ** I enjoy designing scalable backend systems and sharing what I learn through technical content.**
-- I am actively seeking new job 👨🏽‍💼💼 opportunities and exploring roles where I can contribute my skills and experience to a dynamic work environment. I am open to exciting possibilities and ready to take on new challenges in my career journey.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+I enjoy solving engineering problems around authentication, authorization, API design, database architecture, and cloud infrastructure.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kennypapa&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennypapa&show_icons=true&locale=en&layout=compact" alt="kennypapa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennypapa&show_icons=true&locale=en" alt="kennypapa" /></p>
+## 🚀 What I'm Building
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kennypapa&" alt="kennypapa" /></p>
+I'm currently building **Firmstack**, a financial operations SaaS platform focused on helping businesses manage financial workflows efficiently.
+
+Current engineering focus includes:
+
+- Secure Authentication & Authorization (JWT + RBAC)
+- Multi-tenant SaaS Architecture
+- REST API Design
+- PostgreSQL Database Design
+- Backend Systems with NestJS
+- AWS Deployments
+- Developer Experience & API Documentation
+
+---
+
+## 💡 Engineering Philosophy
+
+I believe software engineering is about solving business problems, not just shipping features.
+
+Whether it's designing secure authentication flows, improving API performance, or building scalable architectures, I enjoy understanding the problem before writing code.
+
+---
+
+## 💬 Ask Me About
+
+- Authentication & Authorization
+- RBAC
+- NestJS
+- Node.js
+- PostgreSQL
+- SaaS Architecture
+- API Design
+- React & Next.js
+- AWS
+- Software Architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+Node.js • NestJS • Express • PostgreSQL • MySQL • MongoDB • JWT • REST APIs
+
+### Frontend
+
+React • Next.js • Vue • Nuxt • TypeScript • Tailwind CSS • Redux Toolkit
+
+### Cloud & DevOps
+
+AWS (EC2, Amplify, Route53) • Docker • GitHub Actions
+
+### Tools
+
+Git • Postman • Swagger/OpenAPI • Figma
+
+---
+
+## 📚 Currently Exploring
+
+- Distributed Systems
+- System Design
+- Scalable Backend Architecture
+- Cloud Infrastructure
+- Performance Optimization
+
+---
+
+## 📫 Let's Connect
+
+- Portfolio → https://kehinde-daramola-portfolio.vercel.app/
+- LinkedIn → (your LinkedIn)
+- Email → daramolakehinde339@gmail.com
