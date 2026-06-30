@@ -14,7 +14,7 @@ I enjoy solving engineering problems around authentication, authorization, API d
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 I'm currently building **Firmstack**, a financial operations SaaS platform focused on helping businesses manage financial workflows efficiently.
 
@@ -30,7 +30,7 @@ Current engineering focus includes:
 
 ---
 
-## 💡 Engineering Philosophy
+## Engineering Philosophy
 
 I believe software engineering is about solving business problems, not just shipping features.
 
@@ -53,7 +53,7 @@ Whether it's designing secure authentication flows, improving API performance, o
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -73,7 +73,7 @@ Git • Postman • Swagger/OpenAPI • Figma
 
 ---
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 - Distributed Systems
 - System Design
