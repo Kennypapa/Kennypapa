@@ -86,5 +86,5 @@ Git • Postman • Swagger/OpenAPI • Figma
 ## 📫 Let's Connect
 
 - Portfolio → https://kehinde-daramola-portfolio.vercel.app/
-- LinkedIn → (your LinkedIn)
+- LinkedIn → www.linkedin.com/in/kehinde-daramola-06b55031a
 - Email → daramolakehinde339@gmail.com
