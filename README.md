@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daramola Kehinde</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">Full-Stack Software Engineer building SaaS products, backend systems, and scalable web applications</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennypapa&label=Profile%20views&color=0e75b6&style=flat" alt="kennypapa" /> </p>
 
-- 🔭 I’m currently working on **Firmstaact(Financial Saas platform)**
+- 🔭 Currently building Firmstack, a financial operations SaaS platform.**
 
 - 🌱 I’m currently learning **Next.js**
 
