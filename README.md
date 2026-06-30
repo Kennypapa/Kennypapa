@@ -5,9 +5,15 @@
 
 - 🔭 Currently building Firmstack, a financial operations SaaS platform.**
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **react and vue**
+- Ask me about
+• SaaS Architecture
+• NestJS
+• Authentication
+• RBAC
+• PostgreSQL
+• React
+• Next.js
+• AWS
 
 - 📫 How to reach me **daramolakehinde339@gmail.com**
 
