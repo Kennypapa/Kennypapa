@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kehinde Daramola</h1>
 
 <h3 align="center">
-Full-Stack Software Engineer building secure SaaS products, backend systems, and scalable web applications.
+Software Engineer building secure SaaS products, backend systems, and scalable web applications.
 </h3>
 
 <p align="center">
