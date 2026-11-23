@@ -6,6 +6,7 @@ Software Engineer | Backend Architecture & Scalable SaaS Applications | AI Train
 
 <p align="center">
 I enjoy solving engineering problems around authentication, authorization, API design, database architecture, and cloud infrastructure.
+And also open to freelance projects, independent contracts, remote collaborations, and full-time opportunities.
 </p>
 
 <p align="center">
